@@ -66,23 +66,7 @@ Verifique se o sensor de referência do eixo Y está limpo e corretamente posici
 
 ### 5. Se a Solução Não Resolver
 
-Se, mesmo com as sugestões técnicas, o problema persistir, Edson deve seguir imediatamente para **abertura do chamado técnico interno**, com coleta completa dos dados:
-
-- Nome completo  
-- E-mail  
-- CNPJ da empresa  
-- Modelo da máquina  
-- Número de série  
-- Descrição do problema  
-- Situação atual (parada, operando parcialmente ou normalmente)  
-- Quando começou o problema  
-- Tentativas de solução já realizadas  
-- Envio de imagem (se aplicável)
-
-**Mensagem para o cliente:**
-
-Vamos seguir com a abertura de um chamado técnico interno para acompanhar seu caso com mais profundidade.  
-Vou registrar tudo e, se necessário, podemos agendar uma chamada de vídeo para acelerar o diagnóstico.
+Se, mesmo com as sugestões técnicas, o problema persistir, Edson deve redirecionar o cliente para o telefone da central de atendimento com o número +55 47 8832-1102.
 
 ---
 
