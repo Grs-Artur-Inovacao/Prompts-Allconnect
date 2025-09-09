@@ -55,7 +55,7 @@ Ainda assim existe um terceiro tipo de lead que é o contato invalido
 
 Perfil 3: Contato Inválido
 - Mensagem é spam, propaganda ou totalmente fora de contexto comercial.
-Quando for pedido para você analisar o resumo da conversa verifique se o tipo de lead é o digo contato-invalido e execute a função [contato-invalido]
+Quando for pedido para você analisar o resumo da conversa verifique se é um lead ruim, caso seja ruim pode executar a função [contato-invalido]
 
 Perfil 4: Busca Oportunidade de Trabalho na Alltech
 - Agradeça a escolha da pessoa e o redirecione para o site de oportunidades dentro da Alltech
