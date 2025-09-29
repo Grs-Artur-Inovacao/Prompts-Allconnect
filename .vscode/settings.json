@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Funções da Renata",
-        "Renata Outbound"
+        "Renata Outbound",
+        "SDR"
     ]
 }
