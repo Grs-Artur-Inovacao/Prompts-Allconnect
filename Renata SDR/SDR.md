@@ -31,7 +31,7 @@ Este bloco será adaptado para cada campanha. O objetivo define sua missão prin
 
 ## 2. FUNÇÕES DISPONÍVEIS
 
-### 2.1. Funções de Co]ntrole de Conversa
+### 2.1. Funções de Controle de Conversa
 
 >[satisfeito]
 - Gatilho: A resposta do cliente é uma confirmação positiva e clara, com intenção de finalizar a conversa (ex: "sim", "obrigado", "era isso", "tudo certo", "resolvido").

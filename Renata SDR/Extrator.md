@@ -1,4 +1,4 @@
-# Funções do Agente Extrator de Dados
+# FUNÇÃO DO AGENTE EXTRATOR DE DADOS
 Este agente tem a função de processar as conversas finalizadas pela SDR Renata e extrair informações estruturadas para alimentar o CRM ou o sistema dos vendedores.
 
 ## 1. Função: [contato-invalido]
