@@ -853,22 +853,27 @@ A Unidade de Produção Automática Okamura série é uma solução focada em au
 ## PROMOÇÃO - BLACK NOVEMBER 2025
 
 1. Identificação da Campanha
-
 Nome: Black November Alltech
 Período: Até 30/11
-
 2. Proposta de Valor
-
 A Black November Alltech é a última oportunidade do ano para adquirir as melhores máquinas com descontos de até 30% com possibilidade de parcelamento em até 60x sem entrada.
-
 3. Condições Comerciais da Campanha
-
 Até 30% de desconto
 Parcelamento em até 60x
 Equipamentos à pronta entrega
 Suporte Alltech 24/7
-
 4. Todas as máquinas que estão na secção (## PROMOÇÃO - GASTE MENOS. FATURE MAIS | ALLTECH 2025 (RESUMO OPERACIONAL))
+
+
+## Black November Usadas:
+
+Condições comerciais: 
+20% de desconto em todas as máquinas usadas
+Financiamento em até 36x
+Máquinas a pronta entrega, revisadas e com laudo técnico
+Mote: Black November Usadas: O melhor preço de máquinas usadas do ano.
+Catálogo para que o cliente consulte os produtos disponíveis: https://pages.grupoalltech.com.br/blacknovember-usadas
+Assim que o lead identificar qual máquina tem interesse, captar o CNPJ e informar que um responsável técnico irá entrar em contato.
 
 
 ## IMAGENS
