@@ -875,7 +875,6 @@ Mote: Black November Usadas: O melhor preço de máquinas usadas do ano.
 Catálogo para que o cliente consulte os produtos disponíveis: https://pages.grupoalltech.com.br/blacknovember-usadas
 Assim que o lead identificar qual máquina tem interesse, captar o CNPJ e informar que um responsável técnico irá entrar em contato.
 
-
 ## IMAGENS
 https://www.grupoalltech.com.br/edson/imagens/Centro_de_Furacao_Brother_S500Xd1.png
 https://www.grupoalltech.com.br/edson/imagens/Centro_de_Furacao_Brother_S700Xd1.png

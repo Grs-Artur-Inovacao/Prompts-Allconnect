@@ -1,4 +1,4 @@
-with open("Renata SDR\SDR.md", "r", encoding="utf-8") as f:
+with open("SDR/SDR.md", "r", encoding="utf-8") as f:
     texto = f.read()
 
 from token_count import TokenCount
